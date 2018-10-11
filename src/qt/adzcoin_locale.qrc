@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/adzcoin_bg.qm</file>
+        <file alias="de">locale/adzcoin_de.qm</file>
+        <file alias="en">locale/adzcoin_en.qm</file>
+        <file alias="es">locale/adzcoin_es.qm</file>
+        <file alias="fi">locale/adzcoin_fi.qm</file>
+        <file alias="fr">locale/adzcoin_fr.qm</file>
+        <file alias="it">locale/adzcoin_it.qm</file>
+        <file alias="ja">locale/adzcoin_ja.qm</file>
+        <file alias="pl">locale/adzcoin_pl.qm</file>
+        <file alias="pt">locale/adzcoin_pt.qm</file>
+        <file alias="ru">locale/adzcoin_ru.qm</file>
+        <file alias="sk">locale/adzcoin_sk.qm</file>
+        <file alias="sv">locale/adzcoin_sv.qm</file>
+        <file alias="vi">locale/adzcoin_vi.qm</file>
+        <file alias="zh_CN">locale/adzcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/adzcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
